@@ -1,5 +1,7 @@
 ### Hi I'm Katie 👋
-
+:memo: I like to make fonts
+:herb: and garden!
+:robot: And I coach FLL Robotics.
 <!--
 **stylist14/stylist14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
